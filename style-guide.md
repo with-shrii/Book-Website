@@ -27,12 +27,12 @@ Ionicon
 --sonic-silver: hsl(208, 7%, 46%);
 --old-rose_30: hsla(357, 37%, 62%, 0.3);
 --ghost-white: hsl(233, 33%, 95%);
---light-pink: hsl(357, 93%, 84%);
+--light-pink: rgb(75, 16, 19);
 --light-gray: hsl(0, 0%, 80%);
---old-rose: hsl(357, 37%, 62%);
+--old-rose: hsl(96, 4.00%, 51.40%);
 --seashell: hsl(20, 43%, 93%);
---charcoal: hsl(203, 30%, 26%);
---white: hsl(0, 0%, 100%);
+--charcoal: hsl(203, 83.30%, 16.50%);
+--white: hsl(219, 42.90%, 78.00%);
 ```
 
 ## Typography
